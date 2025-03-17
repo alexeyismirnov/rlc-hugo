@@ -1,0 +1,3 @@
+[submodule "themes/rlc"]
+	path = themes/rlc
+	url = https://github.com/alexeyismirnov/rlc-theme

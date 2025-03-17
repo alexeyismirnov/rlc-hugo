@@ -1,0 +1,31 @@
+title: Russian Language Center
+theme: rlc
+languageCode: en-us
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+menus:
+  main:
+    - name: Home
+      pageRef: /
+      weight: 1
+    - name: About us
+      pageRef: /about_us
+      weight: 10
+    - name: Tuition fees
+      pageRef: /tuition_fees
+      weight: 60
+    - name: School rules
+      pageRef: /school_rules
+      weight: 70
+
+params:
+  mobile: +852 3585 8769
+  whatsapp: +852 6017 4642
+  email: contact@rlc.hk
+  address:
+    - 12/F, Kingdom Power Commercial Building,
+    - 32-36 Des Voeux Rd W, Sheung Wan
