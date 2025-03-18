@@ -5,7 +5,6 @@
 
 ---
 
-
 <div class="col-md-6">
 <ul class="checked">
 <li><strong>Reliability</strong>.&nbsp;Russian Language Center has been working in Hong Kong since 2007. We have provided our students with high quality educational services and proved to be a trustworthy partner.</li>
