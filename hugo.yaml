@@ -15,6 +15,9 @@ menus:
     - name: About us
       pageRef: /about_us
       weight: 10
+    - name: Courses
+      pageRef: /courses
+      weight: 20
     - name: Tuition fees
       pageRef: /tuition_fees
       weight: 60
