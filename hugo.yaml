@@ -18,6 +18,12 @@ menus:
     - name: Courses
       pageRef: /courses
       weight: 20
+    - name: Courses for kids
+      pageRef: /courses_for_kids
+      weight: 30
+    - name: Activities
+      pageRef: /activities
+      weight: 40
     - name: Tuition fees
       pageRef: /tuition_fees
       weight: 60
