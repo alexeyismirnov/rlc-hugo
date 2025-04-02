@@ -24,6 +24,9 @@ menus:
     - name: Activities
       pageRef: /activities
       weight: 40
+    - name: Gallery
+      pageRef: /gallery
+      weight: 50
     - name: Tuition fees
       pageRef: /tuition_fees
       weight: 60
