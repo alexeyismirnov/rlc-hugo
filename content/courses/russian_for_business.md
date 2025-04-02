@@ -1,5 +1,8 @@
 +++
 linkTitle = 'Russian for Business'
+sliderTitle = 'Russian for business'
+sliderText = "Do you work or plan to collaborate with Russian-speaking business partners? We'll help you to find the right words"
+sliderImage = 'photos/courses/slider_courses_business.jpg'
 weight = 6
 +++
 

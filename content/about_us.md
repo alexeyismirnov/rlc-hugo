@@ -1,3 +1,11 @@
++++
+sliderTitle = 'Professional school'
+sliderText = "Hong Kong first professional language center providing Russian courses since 2007"
+sliderImage = 'photos/slider/professional_school/slider_professional_school.jpg'
+weight = 1
++++
+
+
 # About us
 
 <p style="text-align: center;"><span style="font-size: 18pt;">Russian Language Center offers different educational programs for Russian as a native language and Russian as a foreign language for children and grown-ups.</span></p>

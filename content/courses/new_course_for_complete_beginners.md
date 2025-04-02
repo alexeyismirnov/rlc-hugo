@@ -1,5 +1,8 @@
 +++
 linkTitle = 'New course for complete beginners'
+sliderTitle = 'New course for complete beginners'
+sliderText = 'The proposed date of the first lesson is 14th of February, 2025'
+sliderImage = 'photos/courses/slider_next_complete_beginners_course.jpg'
 weight = 5
 +++
 

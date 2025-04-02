@@ -33,11 +33,15 @@ menus:
     - name: School rules
       pageRef: /school_rules
       weight: 70
+    - name: Contact us
+      pageRef: /contacts
+      weight: 80
 
 params:
   mobile: +852 3585 8769
   whatsapp: +852 6017 4642
   email: contact@rlc.hk
-  address:
+  address1: 12/F, Kingdom Power Commercial Building, 32-36 Des Voeux Rd W, Sheung Wan
+  address2:
     - 12/F, Kingdom Power Commercial Building,
     - 32-36 Des Voeux Rd W, Sheung Wan
